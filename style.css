@@ -32,7 +32,7 @@ body{
 .card p{ color:#4b5b6b; margin-bottom:16px; line-height:1.5; }
 .cta{
   background:var(--accent);
-  color:white;
+  color:red;
   border:none;
   padding:10px 16px;
   border-radius:8px;
